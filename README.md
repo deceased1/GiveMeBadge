@@ -39,6 +39,3 @@ If you need visual help on how to do this, then [click here and watch this video
 9. Within the server, Use the `/hello` command provided to you.
 10. Enter to https://discord.com/developers/active-developer and claim your badge.
    - It might take 24 hours before you are able to claim at all, so please take time to wait a bit if that is the case.
-
-## Help needed? 📞
-Join https://discord.gg/AlexFlipnote if you need help.
